@@ -1,3 +1,56 @@
+# KnowVo-AI 🚀  
+**AI-Powered Learning Management System (LMS) SaaS Platform**  
+
+Welcome to **KnowVo-AI**, an advanced AI-powered Learning Management System (LMS) built to revolutionize how individuals and organizations learn, practice, and master skills. This platform leverages state-of-the-art technologies to provide personalized learning experiences, intelligent content creation, and adaptive assessments.  
+
+---
+
+## 🌟 Features  
+
+### AI-Powered Functionalities  
+- **AI Content Generation**: Create comprehensive study materials tailored to individual learning styles.  
+- **AI Coding Assistant**: Smart coding exercises with AI-powered hints and solutions.  
+- **AI Interview Coach**: Realistic interview scenarios and detailed feedback powered by AI.  
+- **Smart Flashcards**: AI creates optimized flashcard sets based on learning patterns.  
+- **Adaptive Quizzes**: Quizzes that adapt dynamically to the learner’s knowledge level.  
+- **Intelligent Q&A**: Targeted questions with detailed AI-generated explanations for deeper understanding.  
+
+### Seamless User Experience  
+- **Modern UI**: A beautifully designed interface with a responsive layout.  
+- **Authentication**: Full user authentication and account management via Clerk.  
+- **Payment Integration**: Secure and efficient subscription payments with Stripe.  
+
+### Scalable & Robust Infrastructure  
+- **Serverless Functions**: Powered by Inngest for dynamic and efficient backend processes.  
+- **Neon Database**: Scalable and high-performance database management.  
+- **AI API Integration**: Powered by Gemini AI for cutting-edge artificial intelligence capabilities.  
+
+---
+
+## 🛠️ Technology Stack  
+
+| **Tech**          | **Purpose**                                         |  
+|--------------------|-----------------------------------------------------|  
+| **Next.js**        | Framework for the frontend and server-side rendering. |  
+| **React**          | Component-based UI development.                    |  
+| **Tailwind CSS**   | For modern and responsive styling.                 |  
+| **Stripe**         | Payment gateway integration.                       |  
+| **Inngest**        | Serverless backend functions.                      |  
+| **Neon**           | Database for scalable data storage.                |  
+| **Clerk**          | Authentication and user management.                |  
+| **Gemini AI**      | Advanced AI functionalities for learning modules.  |  
+
+---
+
+## 📦 Installation  
+
+1. **Clone the Repository**:  
+   ```bash  
+   git clone https://github.com/Abhiman-Singh/KnowVo-AI.git  
+   cd KnowVo-AI  
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
