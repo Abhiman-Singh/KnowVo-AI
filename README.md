@@ -27,6 +27,17 @@ Welcome to **KnowVo-AI**, an advanced AI-powered Learning Management System (LMS
 
 ---
 
+## Screenshots
+
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/landingpage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/HomePage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/coursepage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/ViewNotespage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/FlashCardsPage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/QuizPage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/QuestionAnswerPage.png"  style="margin-right: 40px">
+<img src="https://github.com/Abhiman-Singh/KnowVo-AI/blob/9063b322830cf1167ca910c357a15d09163d1d2a/screenshots/Subscription.png"  style="margin-right: 40px">
+
 ## 🛠️ Technology Stack  
 
 | **Tech**          | **Purpose**                                         |  
