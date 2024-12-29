@@ -2,7 +2,7 @@
 import axios from 'axios';
 import { useParams, useRouter } from 'next/navigation'
 import React, { useEffect, useState } from 'react'
-import FlashcardItem from './_components/flashcardItem';
+import FlashcardItem from './_components/FlashcardItem';
 import { Button } from "@/components/ui/button"
 import {
     Carousel,
